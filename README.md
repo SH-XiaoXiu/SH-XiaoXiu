@@ -12,7 +12,9 @@
 
 Born in '05 · Java Developer · Full-Stack Developer · Embedded Systems Learner 👨‍💻 Actively job hunting. 😢
 
-📖 Blog：[xiuxius.cn/aboutme](https://www.xiuxius.cn/aboutme)
+📖 Blog：[xiuxius.cn/aboutme](https://www.xiuxius.cn/aboutme) · <img src="https://img.icons8.com/color/16/gitee.png"/> Gitee：[sh-xiaoxiu](https://gitee.com/sh-xiaoxiu)
+
+> Most of my code is committed on Gitee — GitHub stats below may look a bit quiet.
 
 ---
 
