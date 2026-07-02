@@ -84,19 +84,6 @@ Born in '05 · Java Developer · Full-Stack Developer · Embedded Systems Learne
 
 ---
 
-## <img src="https://img.icons8.com/color/28/bar-chart.png"/> GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SH-XiaoXiu&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=SH-XiaoXiu&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH-XiaoXiu&layout=donut&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ## <img src="https://img.icons8.com/color/28/source-code.png"/> Contribution
 
 <picture>
