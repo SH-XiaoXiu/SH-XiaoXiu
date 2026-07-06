@@ -1,25 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFE66D,100:4ECDC4&height=200&section=header&text=SH-XiaoXiu&fontSize=60&fontColor=fff&animation=fadeIn)
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&width=500&lines=Full-Stack+%26+Embedded+Developer;Spring+Boot+%7C+Vue+3+%7C+STM32;Building+cool+stuff..." alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-## <img src="https://img.icons8.com/color/28/user-male-circle.png"/> About Me
-
-Born in '05 · Java Developer · Full-Stack Developer · Embedded Systems Learner 👨‍💻 Actively job hunting. 😢
 
 📖 Blog：[xiuxius.cn/aboutme](https://www.xiuxius.cn/aboutme) · <img src="https://cdn.simpleicons.org/gitee/C71D23" width="16"/> Gitee：[sh-xiaoxiu](https://gitee.com/sh-xiaoxiu)
 
 > Most of my code is committed on Gitee — GitHub stats below may look a bit quiet.
-
 ---
-
 ## <img src="https://img.icons8.com/color/28/maintenance.png"/> Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -81,14 +65,3 @@ Born in '05 · Java Developer · Full-Stack Developer · Embedded Systems Learne
 ![BLE](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
-
----
-
-## <img src="https://img.icons8.com/color/28/source-code.png"/> Contribution
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SH-XiaoXiu/SH-XiaoXiu/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github-contribution-grid-snake" src="https://github.com/SH-XiaoXiu/SH-XiaoXiu/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=120&section=footer)
